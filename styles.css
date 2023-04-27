@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+nav{
+	display:flex;
+	flex-flow:no wrap;
+	justify-content:center;
+	
+	
+}
